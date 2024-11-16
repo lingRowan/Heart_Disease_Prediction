@@ -52,14 +52,3 @@ The code performs the following steps:
 ```python
 survie(model, Age=60, RestingBP=145, Cholesterol=200, FastingBS=0, MaxHR=150, Oldpeak=1.5, HeartDisease=0, Sex_F=True, ...)
 ```
-
-### Results
-
-The final classification report gives insights into the model’s effectiveness:
-- **Precision**, **Recall**, **F1-Score**, and **Support** metrics are analyzed to evaluate model performance. 
-
-```markdown
-![Caption](relative/path/to/image.png)
-```
-
-Make sure to check the images display correctly when you render your README on GitHub.
